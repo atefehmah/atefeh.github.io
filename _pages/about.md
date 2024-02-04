@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at Georgia Institute of Technology. I am a member of Expressive MAchinary Lab where I am advised by Dr. Brian Magerko. My research focuses on understanding and enhancing the interaction between humans and AI systems. With a special interest in AI literacy and user research, I've engaged in several projects that blend qualitative analysis, and generative AI technologies.
+I'm currently in my fourth year of PhD studies at the Georgia Institute of Technology, affiliated with the Expressive Machinery Lab under the guidance of Dr. Brian Magerko. As a graduate researcher at Georgia Tech, I am deeply engaged in unraveling the complexities of generative AI and AI literacy, focusing particularly on understanding how diverse user groups, from middle school students to adults, navigate their interactions with generative AI technologies such as ChatGPT and text-to-image AI tools. Through qualitative research, my aim is to uncover the intuitive behaviors and challenges users encounter with AI, everaging these insights to design and inform AI literacy interventions.
 
 **News**
 * January 2024 - Two papers accepted to CHI 2024!
