@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 * “Testing, Socializing, Exploring: Characterizing Middle Schoolers’ Approaches to and Conceptions of ChatGPT” Yasmine Belghith*, Atefeh Mahdavi Goloujeh*, Brian Magerko, Duri Long, Tom Mcklin, Jessica Roberts. Accepted to 2024 CHI Conference on Human Factors in Computing Systems. * Contributed equally and alphabetically ordered. 
 
