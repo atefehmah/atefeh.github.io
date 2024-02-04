@@ -14,8 +14,9 @@ I am a fourth year PhD student at Georgia Institute of Technology. I am a member
 * January 2024 - Two papers accepted to CHI 2024!
 * April 2023 - Serving as a Publicity Co-Chair for AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (#AIIDE23).
 * January 2023 - Our paper on Ethical Leadership Signals is accepted to the Leadership Quarterly Journal!
-* December 2022 - I will be presenting our paper in the HCAI@NeurIPS 2022!
-* October 2022 - I will be presenting our poster in AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (#AIIDE22).
+* December 2022 - I will be presenting our paper at the HCAI@NeurIPS 2022!
+* October 2022 - I will be presenting our poster at AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (#AIIDE22).
 * April 2022 - I passed my qualification exam!
+
 
 

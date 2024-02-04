@@ -27,6 +27,4 @@ author_profile: true
 
 * "Towards an AI Holodeck: Generating Virtual Scenes from Sparse Natural Language Input." Jason Smith, Nazanin Alsadat Tabatabaei Anaraki, Atefeh Mahdavi Goloujeh, Karan Khosla, and Brian Magerko. Presented at the Experimental AI in Games Workshop, AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 2021. 
 
-* “Take a Selfie” Atefeh Mahdavi Goloujeh. Exhibited in the NeurIPS Creativity Workshop Gallery 2021  
-
 * "Pneuxels: a platform for physically manifesting object-based crowd interactions in large scales." Manoj Deshpande, Saquib Sarwar, Atefeh Mahdavi Goloujeh, and Dimitris Papanikolaou. Published in Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2019. 
