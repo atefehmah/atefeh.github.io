@@ -11,6 +11,9 @@ redirect_from:
 I'm currently in my fourth year of PhD studies at the Georgia Institute of Technology, affiliated with the Expressive Machinery Lab under the guidance of Dr. Brian Magerko. As a graduate researcher at Georgia Tech, I am deeply engaged in uncovering the complexities of generative AI and AI literacy, focusing particularly on understanding how diverse user groups, from middle school students to adults, navigate their interactions with generative AI technologies such as LLMs and text-to-image AI tools. Through qualitative research, my aim is to uncover the intuitive behaviors and challenges users encounter with AI, everaging these insights to design and inform AI literacy interventions.
 
 **News**
+* August 2024 - I'll be interning at Google this fall!
+* May 2024 - I'm excited to share that I'm interning at Beyond12 this summer!
+* May 2024 - I will be presenting my paper at CHI24!
 * February 2024 - LBW accepted to CHI 2024!
 * January 2024 - Two papers accepted to CHI 2024!
 * April 2023 - Serving as a Publicity Co-Chair for AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (#AIIDE23).
