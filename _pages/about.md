@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently in my fourth year of PhD studies at the Georgia Institute of Technology, affiliated with the Expressive Machinery Lab under the guidance of Dr. Brian Magerko. As a graduate researcher at Georgia Tech, I am deeply engaged in uncovering the complexities of generative AI and AI literacy, focusing particularly on understanding how diverse user groups, from middle school students to adults, navigate their interactions with generative AI technologies such as LLMs and text-to-image AI tools. Through qualitative research, my aim is to uncover the intuitive behaviors and challenges users encounter with AI, everaging these insights to design and inform AI literacy interventions.
+I'm currently in my fourth year of PhD studies at the Georgia Institute of Technology, affiliated with the Expressive Machinery Lab under the guidance of Dr. Brian Magerko. As a graduate researcher at Georgia Tech, I am working on generative AI and AI literacy, focusing particularly on understanding how diverse user groups, from middle school students to adults, navigate their interactions with generative AI technologies such as LLMs and text-to-image AI tools. Through qualitative research, my aim is to uncover the intuitive behaviors and challenges users encounter with AI, leveraging these insights to design and inform AI literacy interventions.
 
 **News**
 * August 2024 - Started fall internship at Google Labs! Hosted by Chelsey Fleming.
